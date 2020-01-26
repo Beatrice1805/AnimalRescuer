@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd1f1d85-db48-4825-86f3-934d3d7396a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Adopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/PetFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/RecreationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Veterinarian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580055875827</updated>
       <workItem from="1580055878599" duration="1455000" />
-      <workItem from="1580057503569" duration="87000" />
+      <workItem from="1580057503569" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580056234242</created>
@@ -62,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580056234242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added classes">
+      <created>1580057739116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580057739116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,13 +82,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added classes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580056232269">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580057737539">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580056232269" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580057737539" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1580057698492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -89,9 +102,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="15" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580057650687" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1580056159887">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1580057741698">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580056159887" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580057741698" />
   </component>
 </project>

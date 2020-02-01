@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd1f1d85-db48-4825-86f3-934d3d7396a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/expiringDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Adopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Adopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/PetFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/PetFood.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +64,7 @@
       <workItem from="1580055878599" duration="1455000" />
       <workItem from="1580057503569" duration="2178000" />
       <workItem from="1580315024893" duration="34000" />
-      <workItem from="1580568892655" duration="3013000" />
+      <workItem from="1580568892655" duration="3268000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580056234242</created>
@@ -93,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580058813788</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="erase hard codes and insert LocalData">
+      <created>1580572122028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580572122028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +104,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added classes" />
     <MESSAGE value="properties of instances" />
-    <option name="LAST_COMMIT_MESSAGE" value="properties of instances" />
+    <MESSAGE value="erase hard codes and insert LocalData" />
+    <option name="LAST_COMMIT_MESSAGE" value="erase hard codes and insert LocalData" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1580059508422">
@@ -114,10 +116,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580059609030" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580058810856">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1580572115965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580058810856" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580572115965" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1580057698492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -134,9 +136,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="15" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580569560431" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1580058852889">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1580572219058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580058852889" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1580572219058" />
   </component>
 </project>

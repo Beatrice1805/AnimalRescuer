@@ -1,11 +1,14 @@
 package org.fasttrackit;
 
-public class Animal extends ToyAnimal{
-    
+public class Animal extends ToyAnimal {
 
-   private static PetFood petFood;
+    private static final Object PetFood = "Bone";
 
-    public Animal(PetFood petfood) {
-        super(petfood);
+    public Animal(PetFood petFood) {
+        super(petFood);
+    }
+
+    public Animal() {
+        super();
     }
 }

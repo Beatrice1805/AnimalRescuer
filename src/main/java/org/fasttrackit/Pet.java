@@ -1,11 +1,14 @@
 package org.fasttrackit;
 
-public class Pet {
-    String name;
-    int age;
-    double healthLevel;
-    double hungerLevel;
-    double moodLevel;
-    String favoriteFoodName;
-    String favoriteRecreation;
+public class Pet<favoriteRecreation> {
+    String name= "Tommy";
+    int age=4 ;
+    double healthLevel=8.5;
+    double hungerLevel=7;
+    double moodLevel=7;
+    String favoriteFoodName= "Bone";
+    public String favoriteRecreation=" Running ";
+
+
+
 }

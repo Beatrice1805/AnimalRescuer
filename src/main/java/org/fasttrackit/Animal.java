@@ -2,13 +2,11 @@ package org.fasttrackit;
 
 public class Animal extends ToyAnimal {
 
-    private static final Object PetFood = "Bone";
+    public String name = "Bunny";
 
-    public Animal(PetFood petFood) {
-        super(petFood);
-    }
-
-    public Animal() {
-        super();
+    public static void main(String[] args) {
+        Animal myAnimal = new Animal();
+        myAnimal.hopper();
+        System.out.println(myAnimal.name + "");
     }
 }

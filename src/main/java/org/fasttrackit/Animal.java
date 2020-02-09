@@ -1,12 +1,7 @@
 package org.fasttrackit;
 
-public class Animal {
-    String name;
-    int age;
-    double healthLevel;
-    double hungerLevel;
-    double moodLevel;
-    String favoriteFoodName;
+public class Animal extends ToyAnimal{
+
     String favoriteRecreation;
-    String activityName;
+
 }

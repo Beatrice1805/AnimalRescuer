@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1f1d85-db48-4825-86f3-934d3d7396a4" name="Default Changelist" comment="modified homework">
+    <list default="true" id="dd1f1d85-db48-4825-86f3-934d3d7396a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/ToyAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="AnimalRescuer" />
@@ -91,7 +97,7 @@
       <workItem from="1580568892655" duration="5722000" />
       <workItem from="1580849385333" duration="1210000" />
       <workItem from="1581138815418" duration="731000" />
-      <workItem from="1581236107779" duration="1308000" />
+      <workItem from="1581236107779" duration="7325000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580056234242</created>
@@ -135,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581237012981</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="modified homework">
+      <created>1581237655117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581237655117</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modified homework">
+      <created>1581237711866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581237711866</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,38 +194,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="548" y="258" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1580057368857" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581237606790">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581254915680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581237606790" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581237606790">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581254915680" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581254915679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581237606790" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581237606790">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581254915679" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581254915678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581237606790" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581237606790">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581254915678" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581254915679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581237606790" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581254915679" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1580570193219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580570193219" />
-    <state x="495" y="75" key="RollbackChangesDialog" timestamp="1581138925482">
+    <state x="495" y="75" key="RollbackChangesDialog" timestamp="1581257322987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="495" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581138925482" />
+    <state x="495" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581257322987" />
     <state x="278" y="15" width="998" height="708" key="SettingsEditor" timestamp="1580569560431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="15" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580569560431" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1581237018050">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1581237722318">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581237018050" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581237722318" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AnimalRescuer$App.ic" NAME="App Coverage Results" MODIFIED="1581237606510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

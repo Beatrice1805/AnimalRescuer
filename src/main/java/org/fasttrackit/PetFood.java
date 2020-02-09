@@ -1,5 +1,6 @@
 package org.fasttrackit;
 
+import java.time.LocalDateTime;
 import java.time.Month;
 
 public class PetFood {
@@ -9,10 +10,6 @@ public class PetFood {
     int expiringDate = 2025;
     double stockAvailability = 5;
 
-    public void getExpiringDate() {
-        java.time.LocalDate.of(2019, Month.JANUARY, 1)
-                .plusMonths(24)
-                .toString();
+    LocalDateTime foodLocalDate;
 
     }
-}

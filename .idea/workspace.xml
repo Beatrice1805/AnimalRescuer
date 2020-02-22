@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd1f1d85-db48-4825-86f3-934d3d7396a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Rescuer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Adopter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/PetFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/AnimalFood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/RecreationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/RecreationActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/ToyAnimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Veterinarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Veterinarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Rescuer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Rescuer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +98,7 @@
       <workItem from="1581236107779" duration="17153000" />
       <workItem from="1582090227829" duration="1175000" />
       <workItem from="1582344752197" duration="823000" />
-      <workItem from="1582346870538" duration="8169000" />
+      <workItem from="1582346870538" duration="9899000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1580056234242</created>
@@ -193,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581283951584</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="methods  homework modification">
+      <created>1582357955104</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582357955105</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +206,8 @@
     <MESSAGE value="inheritance method homework" />
     <MESSAGE value="constructors homework" />
     <MESSAGE value="constructors homework modification" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructors homework modification" />
+    <MESSAGE value="methods  homework modification" />
+    <option name="LAST_COMMIT_MESSAGE" value="methods  homework modification" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1580059508422">
@@ -239,10 +238,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580059609030" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1581283945744">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582357946542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581283945744" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582357946542" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1582345783434">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -251,22 +250,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="548" y="258" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1580057368857" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582355944352">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1582358910511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582355944348" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582355944348">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582358910511" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1582358910510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582355944348" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582355944348">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582358910510" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1582358910510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582355944348" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582355944348">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582358910510" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1582358910510">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582355944348" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582358910510" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1582358910511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582358910511" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1582358910511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582358910511" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1582358910511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582358910511" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1582358910511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582358910511" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1581269303053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -279,10 +294,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="15" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580569560431" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1581283957061">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1582357965793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581283957061" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582357965793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/fasttrackit/Rescuer.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AnimalRescuer$App.ic" NAME="App Coverage Results" MODIFIED="1581237606510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

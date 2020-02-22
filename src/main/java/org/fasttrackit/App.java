@@ -11,6 +11,7 @@ public class App {
         animal.age = 5;
         animal.favouriteFood = "Royal";
         animal.hungerLevel = 10;
+        animal.spiritLevel = 10;
         System.out.println("Hello,! i'm Lucky , your new friend!");
 
 
@@ -32,6 +33,8 @@ public class App {
         recreationActivity.name = "listeningMusic";
 
         rescuer.recreationActivity(animal, recreationActivity);
+        System.out.println("Spirit Level is :" + animal.spiritLevel);
+
 
         Dog dog = new Dog("Puppy");
 

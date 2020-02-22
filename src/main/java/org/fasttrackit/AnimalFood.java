@@ -3,7 +3,7 @@ package org.fasttrackit;
 import java.time.LocalDateTime;
 import java.time.Month;
 
-public class AnimalFood {
+public class AnimalFood { ;
     String name;
     int price;
     int quantity;

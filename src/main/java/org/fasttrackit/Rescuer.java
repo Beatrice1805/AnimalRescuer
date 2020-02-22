@@ -3,6 +3,9 @@ package org.fasttrackit;
 public class Rescuer {
     String name;
     int availableAmountOfMoney;
+    String entertain;
+
+
 
     public void feedAnimal(Animal animal, AnimalFood food) {
         System.out.println(name + " just gave some " + food.name + " to " + animal.name);
@@ -12,12 +15,13 @@ public class Rescuer {
 
     public void recreationActivity(Animal animal, RecreationActivity recreationActivity) {
 
-        System.out.println(name + animal.name + recreationActivity.name + animal.spiritLevel);
-        animal.spiritLevel = animal.spiritLevel + 5;
+        System.out.println(name + animal.name + recreationActivity.name + animal.happinessLevel);
+        animal.happinessLevel = animal.happinessLevel + 5;
 
-    }
+        }
+        }
 
 
-}
+
 
 

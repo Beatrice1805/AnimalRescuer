@@ -1,12 +1,17 @@
 package org.fasttrackit;
 
-public class Animal extends ToyAnimal {
+public class Animal {
 
-    public String name = "Bunny";
+    public String name ;
+    int age;
+    int healthLevel;
+    int hungerLevel;
+    int spiritLevel;
+    String favouriteFood;
+    String favouriteActivity;
 
-    public static void main(String[] args) {
-        Animal myAnimal = new Animal();
-        myAnimal.hopper();
-        System.out.println(myAnimal.name + "");
+
+    public Animal(String name) {
+        this.name = name;
     }
 }
